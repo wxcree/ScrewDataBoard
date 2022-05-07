@@ -3,6 +3,7 @@ A simple business intelligence system that can easily analyze xlsx data uploaded
 
 ## QuickStart
 ```bash
+# node/14.19.1
 cd app-client
 yarn install
 yarn build
