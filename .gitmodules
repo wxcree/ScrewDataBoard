@@ -1,0 +1,6 @@
+[submodule "app-server"]
+	path = app-server
+	url = https://github.com/wxcree/app-server.git
+[submodule "app-client"]
+	path = app-client
+	url = https://github.com/wxcree/app-client.git
